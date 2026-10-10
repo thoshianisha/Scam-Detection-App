@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "AI-powered Digital Risk Protection and Personal Cyber Safety Platform for detecting phishing URLs, fake social profiles, OTP scams, deepfakes, and malicious apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScamShield AI</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_shield_ai">Shield AI</string>
+    <string name="nav_profile">Profile</string>
+    <string name="privacy_notice_banner">Privacy-First: Never enter real OTPs, passwords, or PINs. Only message patterns and metadata are analyzed.</string>
+    <string name="status_safe">SAFE</string>
+    <string name="status_suspicious">SUSPICIOUS</string>
+    <string name="status_high_risk">THREAT DETECTED</string>
+    <string name="ai_assessment_disclaimer">AI-based forensic assessment — not absolute proof. May produce false positives or negatives.</string>
+</resources>
